@@ -7,7 +7,6 @@ on:
       - serena/root-helper-proper
     paths-ignore:
       - '**/*.md'
-      - 'README.md'
       - '.gitignore'
   pull_request:
     branches:
